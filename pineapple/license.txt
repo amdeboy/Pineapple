@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pineapple
+* source:	https://sketchfab.com/3d-models/pineapple-51774e71d21c4b8d8399e5c774693b6e
+* author:	allisondeboy (https://sketchfab.com/allisondeboy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pineapple" (https://sketchfab.com/3d-models/pineapple-51774e71d21c4b8d8399e5c774693b6e) by allisondeboy (https://sketchfab.com/allisondeboy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
